@@ -1,4 +1,3 @@
-#McCall Pyle 17034279 and Zhiyuan Liu 25105882
 import connectfour
 
 def print_board(gamestate: connectfour.GameState ) -> None:
