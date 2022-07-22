@@ -1,4 +1,3 @@
-#McCall Pyle 17034279 and Zhiyuan Liu 25105882
 import connectfour
 import connectfour_common_functions
 
